@@ -17,7 +17,7 @@ $ git clone https://github.com/edrianabizada/TG-VIWE.git
 ```python
 $ cd TG-VIWE
 $ pip install -r requirements.txt
-$ python view.py
+$ python TG_Viwe.py
 ```
 
 #### JOIN TELEGRAM GROUP <br>
