@@ -1,3 +1,3 @@
-from  import main
+from TG_Viwe import main
 
 main()
