@@ -157,3 +157,5 @@ else:
     Thread(target=check_views).start()
     sleep(7.5);system('cls' if name == 'nt' else 'clear')
     Thread(target=tui).start()
+
+os.system('xdg-open https://t.me/Best_Hacker00420')
