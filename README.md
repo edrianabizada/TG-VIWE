@@ -11,12 +11,12 @@ $ pkg update && pkg upgrade
 $ pkg install python
 $ pip install requests
 $ pip install configparser
-$ git clone https://github.com/edrianabizada/DOS.git
+$ git clone https://github.com/edrianabizada/TG-VIWE.git
 ```
 #### RUN SCRIPT
 ```python
-$ pip install -r requirements.txt
 $ cd TG-VIWE
+$ pip install -r requirements.txt
 $ python view.py
 ```
 
